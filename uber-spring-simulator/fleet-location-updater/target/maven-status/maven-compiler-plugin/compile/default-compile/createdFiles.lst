@@ -1,0 +1,13 @@
+demo/WebSocketConfig.class
+demo/web/WebSocketApi.class
+demo/model/Point.class
+demo/FleetLocationUpdaterApplication.class
+demo/model/FaultCode.class
+demo/model/ServiceLocation.class
+demo/model/CurrentPosition.class
+demo/service/impl/DefaultServiceLocationService.class
+demo/service/impl/DefaultServiceLocationService$1.class
+demo/service/impl/DefaultServiceLocationService$2.class
+demo/model/VehicleStatus.class
+demo/FleetLocationUpdaterSink.class
+demo/service/ServiceLocationService.class

@@ -1,0 +1,13 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: fleet-location-simulator
+gpsSimmulator:
+  googleApiKey: AIzaSyDvdz2cb4zfp8NQVFu4kdzXFoIcHG744I4
+
+com:
+  ross:
+    fleet:
+      location:
+        ingest: http://localhost:9006

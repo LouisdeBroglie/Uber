@@ -1,0 +1,12 @@
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/model/CurrentPosition.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterSink.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/WebSocketConfig.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/model/VehicleStatus.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/web/WebSocketApi.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/model/ServiceLocation.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterApplication.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/web/package-info.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/model/Point.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/model/FaultCode.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/service/ServiceLocationService.java
+/vagrant_data/week4-for-students/fleet-location-updater/src/main/java/demo/service/impl/DefaultServiceLocationService.java

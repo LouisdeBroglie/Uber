@@ -1,0 +1,9 @@
+demo/FaultCode.class
+demo/Location$GpsStatus.class
+demo/FleetBulkUploadController.class
+demo/FleetLocationServiceApplication.class
+demo/UnitFault.class
+demo/Location$VehicleMovementType.class
+demo/LocationRepository.class
+demo/UnitInfo.class
+demo/Location.class
